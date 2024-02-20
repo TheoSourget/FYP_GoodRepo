@@ -1,7 +1,7 @@
-var1,Var2,var_3
+City,Date,Temperature
 Copenhagen,07082023,3
-Copenhagen,20220807,0
+Copenhagen,07082022,0
 Paris,07082023,5
-Paris,20220807,7
+Paris,07082022,7
 Madrid,07082023,9
-Madrid,20220807,11
+Madrid,07082022,11
